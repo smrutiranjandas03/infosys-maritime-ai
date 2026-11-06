@@ -1,3 +1,5 @@
+<img width="840" height="816" alt="WhatsApp Image 2026-11-06 at 6 55 14 PM" src="https://github.com/user-attachments/assets/9ad4c071-5d04-4cdd-9b23-910305292c4f" />
+<img width="758" height="768" alt="WhatsApp Image 2026-11-06 at 6 55 14 PM (1)" src="https://github.com/user-attachments/assets/2a2d0868-0bad-42d0-aac9-568cefefab18" />
 # infosys-maritime-ai
 # 🔐 Infosys Springboard – User Authentication Module
 
