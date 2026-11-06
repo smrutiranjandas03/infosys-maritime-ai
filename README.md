@@ -1,4 +1,5 @@
 
+
 # infosys-maritime-ai
 # 🔐 Infosys Springboard – User Authentication Module
 
@@ -144,3 +145,19 @@ The objective of this project is to demonstrate the implementation of a user aut
 *Developed for learning and demonstration purposes.*
 
 <img width="316" height="316" alt="WhatsApp Image 2026-11-06 at 6 55 14 PM (1)" src="https://github.com/user-attachments/assets/d6a804e7-b273-4eaf-a997-2484c19a171a" />
+
+<img width="316" height="316" alt="WhatsApp Image 2026-11-06 at 6 55 14 PM" src="https://github.com/user-attachments/assets/cee40490-236d-40c5-9a84-42681f2a765e" />
+
+<img width="316" height="316" alt="WhatsApp Image 2026-11-06 at 6 55 13 PM (2)" src="https://github.com/user-attachments/assets/2b8c696a-af5e-42da-abb9-f7d2606d7df5" />
+
+<img width="316" height="316" alt="WhatsApp Image 2026-11-06 at 6 55 13 PM (1)" src="https://github.com/user-attachments/assets/ff3429c4-98fa-49b7-bcec-9d2b26535e40" />
+
+<img width="316" height="316" alt="WhatsApp Image 2026-11-06 at 6 55 13 PM" src="https://github.com/user-attachments/assets/79a3420a-c150-4b2c-8948-9309f3d5633b" />
+
+<img width="316" height="316" alt="WhatsApp Image 2026-11-06 at 6 55 12 PM" src="https://github.com/user-attachments/assets/8d7380d5-4f90-4bfc-ac16-f64f008f9def" />
+
+<img width="316" height="316" alt="WhatsApp Image 2026-11-06 at 6 55 11 PM" src="https://github.com/user-attachments/assets/fa4197c6-cdf5-4ce9-9a8a-14648e68dbb0" />
+
+
+
+
