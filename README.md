@@ -143,4 +143,4 @@ The objective of this project is to demonstrate the implementation of a user aut
 
 *Developed for learning and demonstration purposes.*
 
-<img width="396" height="396" alt="WhatsApp Image 2026-11-06 at 6 55 14 PM (1)" src="https://github.com/user-attachments/assets/d6a804e7-b273-4eaf-a997-2484c19a171a" />
+<img width="316" height="316" alt="WhatsApp Image 2026-11-06 at 6 55 14 PM (1)" src="https://github.com/user-attachments/assets/d6a804e7-b273-4eaf-a997-2484c19a171a" />
